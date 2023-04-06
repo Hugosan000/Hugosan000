@@ -10,21 +10,16 @@ Hello there! 👋 My name is Victor Hugo, and I am a passionate QA Engineer with
 
 💬 Feel free to ask me about how to improve your code patterns, and I will be glad to help. 😊
 
-📫 You can reach me via my LinkedIn account at  
-
-<a href="https://www.linkedin.com/in/victor-hugo-fonseca-1a991994/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" align="center" heigth="50"
+📫 You can reach me via my LinkedIn account at  <a href="https://www.linkedin.com/in/victor-hugo-fonseca-1a991994/">
+  <img src="devicon-linkedin-plain colored"" align="center" heigth="50"
        widtgh="60">
 </a>
             
- 
-
-
 
 ⚡ Fun fact: I have finished all the Metal Gear Solid games.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugosan000&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugosan000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugosan000&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
