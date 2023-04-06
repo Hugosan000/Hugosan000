@@ -10,7 +10,8 @@ Hello there! 👋 My name is Victor Hugo, and I am a passionate QA Engineer with
 
 💬 Feel free to ask me about how to improve your code patterns, and I will be glad to help. 😊
 
-📫 You can reach me via my LinkedIn account at https://www.linkedin.com/in/victor-hugo-fonseca-1a991994/
+📫 You can reach me via my LinkedIn account at  ![image](https://user-images.githubusercontent.com/61331185/230414521-397bc2c3-8758-47d2-a4a2-0343593faf4a.png)
+ https://www.linkedin.com/in/victor-hugo-fonseca-1a991994/
 
 ⚡ Fun fact: I have finished all the Metal Gear Solid games.
 
