@@ -11,7 +11,8 @@ Hello there! 👋 My name is Victor Hugo, and I am a passionate QA Engineer with
 💬 Feel free to ask me about how to improve your code patterns, and I will be glad to help. 😊
 
 📫 You can reach me via my LinkedIn account at <a href="https://www.linkedin.com/in/victor-hugo-fonseca-1a991994/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" aligh="center" height="50"
+   width="60"    
 </a>
 
 
