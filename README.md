@@ -13,7 +13,7 @@ Hello there! 👋 My name is Victor Hugo, and I am a passionate QA Engineer with
 📫 You can reach me via my LinkedIn account at 
 
 <a href="https://www.linkedin.com/in/victor-hugo-fonseca-1a991994/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" align="center" heigth="10" 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" heigth="10" width="60" 
 </a>
             
 
