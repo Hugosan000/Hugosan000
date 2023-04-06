@@ -12,8 +12,8 @@ Hello there! 👋 My name is Victor Hugo, and I am a passionate QA Engineer with
 
 📫 You can reach me via my LinkedIn account at Linkedin accout
 <a href="https://www.linkedin.com/in/victor-hugo-fonseca-1a991994/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" aligh="center" height="50"
-  width="60">    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" aligh="center" height="30"
+  width="30">    
 </a>
 
 ⚡ Fun fact: I have finished all the Metal Gear Solid games.
