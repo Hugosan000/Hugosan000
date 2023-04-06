@@ -10,7 +10,9 @@ Hello there! 👋 My name is Victor Hugo, and I am a passionate QA Engineer with
 
 💬 Feel free to ask me about how to improve your code patterns, and I will be glad to help. 😊
 
-📫 You can reach me via my LinkedIn account at  <a href="https://www.linkedin.com/in/victor-hugo-fonseca-1a991994/">
+📫 You can reach me via my LinkedIn account at 
+
+<a href="https://www.linkedin.com/in/victor-hugo-fonseca-1a991994/">
   <img src="devicon-linkedin-plain colored"" align="center" heigth="50"
        widtgh="60">
 </a>
