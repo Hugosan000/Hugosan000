@@ -14,12 +14,13 @@ Hello there! 👋 My name is Victor Hugo, and I am a passionate QA Engineer with
 
 <a href="https://www.linkedin.com/in/victor-hugo-fonseca-1a991994/">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" align="center" heigth="10" widtgh="60" max-width:200px;
-
 </a>
             
 
 
 ⚡ Fun fact: I have finished all the Metal Gear Solid games.
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hugosan000&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugosan000&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
