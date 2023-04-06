@@ -1,27 +1,20 @@
-### Hi there 👋 my name is Victor Hugo and i am a passionate QA Engenieer with Front-end automation such as Selenium and Cypress with Five years of experience!
+Hello there! 👋 My name is Victor Hugo, and I am a passionate QA Engineer with five years of experience in Front-end automation using tools like Selenium and Cypress.
 
-<!--
-**Hugosan000/Hugosan000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently, I am working on a new project that involves using Selenium with Python and the latest Python libraries.
 
-Here are some ideas to get you started:
+🌱 I am also continuously learning about TypeScript, Playwright, and the newest Safari Webkit to stay up-to-date with the latest trends in automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I am looking to collaborate on a full API project to create new mapping and scenario testing to achieve full application API coverage.
 
+🤔 I am also eager to help the QA community more by spreading the word about automation and its benefits.
+
+💬 Feel free to ask me about how to improve your code patterns, and I will be glad to help. 😊
+
+📫 You can reach me via my LinkedIn account at https://www.linkedin.com/in/victor-hugo-fonseca-1a991994/
+
+⚡ Fun fact: I have finished all the Metal Gear Solid games.
 
 
 
-- 🔭 I’m currently working on a new project using Selenium with Python and the most recently python liberires 
-- 🌱 I’m currently learning a lot of TypeScript and Playwritgh and the newst safari webkit
-- 👯 I’m looking to collaborate on a full api project to create a new maping and scenario testings to have a full aplication api covarage 
-- 🤔 I’m looking for help the QA comunnity more and more spreeding the word of the automation and they needes!
-- 💬 Ask me about how to improve your code pattern, i be glad to help :D
-- 📫 How to reach me feel free to contact me on my likedin accout https://www.linkedin.com/in/victor-hugo-fonseca-1a991994/
-- ⚡ Fun fact: i finished all Metal Gear Solid Games 
+
+
