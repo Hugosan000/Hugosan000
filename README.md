@@ -1,4 +1,4 @@
-Hello there! 👋 My name is Victor Hugo, and I am a passionate QA Engineer with five years of experience in Front-end automation using tools like Selenium and Cypress.
+Hello there! 👋 My name is Victor Hugo, and I am a passionate QA Engineer with five years of experience in automation testing. My expertise covers front-end and back-end automation, mobile, and APIs.
 
 🔭 Currently, I am working on a new project that involves using Selenium with Python and the latest Python libraries.
 
