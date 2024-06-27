@@ -1,6 +1,6 @@
 
-<img src="https://github.com/Hugosan000/Hugosan000/assets/61331185/bd24b8c0-8411-409b-9788-7bcf2671eb5f" alt="cvb" style="width: 100%;">
 
+<img src="https://github.com/Hugosan000/Hugosan000/assets/61331185/6b316e58-7dc2-4045-8070-10e112efae6e" alt="github cover" style="width: 100%;">
 
 
 
@@ -9,10 +9,10 @@
 
 # Hello there! 👋
 
-My name is Victor Hugo, and I am a passionate QA Engineer with five years of experience in automation testing. My expertise covers front-end and back-end automation, mobile, and APIs.
+My name is Victor Hugo, and I am a passionate QA Engineer with 7 years of experience in automation testing. My expertise covers front-end and back-end automation, mobile, and APIs.
 
  - 🔭 Currently
-I am working on a new project that involves using Selenium with Python and the latest Python libraries.
+I am working on a new project that involves Playwright and Appium
 
 - 🌱 Continuous Learning
 I am also continuously learning about TypeScript, Playwright, and the newest Safari Webkit to stay up-to-date with the latest trends in automation.
