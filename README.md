@@ -1,5 +1,6 @@
 
-<img src="https://github.com/Hugosan000/Hugosan000/assets/61331185/b111c6d6-1c28-420f-9487-e845df0f7278" alt="Profile Picture" width="350" height="300">
+<img src="https://github.com/Hugosan000/Hugosan000/assets/61331185/bd24b8c0-8411-409b-9788-7bcf2671eb5f" alt="cvb" style="width: 100%;">
+
 
 
 
