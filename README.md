@@ -17,6 +17,6 @@ My name is Hugo, and I am a passionate QA Engineer with 7 years of experience in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="20" width="20">
 </a>
 
-- ⚡ Fun Fact
+- ⚡ Fun Fact:
 I have finished all the Metal Gear Solid games.
 
